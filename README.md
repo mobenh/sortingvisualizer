@@ -1,5 +1,6 @@
 # Sorting Visualizer
 In this project you can visualize how diffrent sorting algrithm sort an array of numbers. I use Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, and Selection Sort.
+![sortvisual_screenshot](sortvisual_screenshot.png)
 
 https://sortingvisualizer.mobenh.com
 
